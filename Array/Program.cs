@@ -36,6 +36,7 @@ namespace Array
         static void  Add(out int a)
         {
             a=100;
+            a = 20;
         }
     }
 }
